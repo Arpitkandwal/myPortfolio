@@ -1,0 +1,32 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Proficient in crafting dynamic web applications with expertise in HTML, CSS, React, and polished with the finesse of Tailwind CSS."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Seasoned in building robust web applications with Node.js, Express.js, and MongoDB, ensuring seamless data handling and server-side functionality."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Screenshot (41).png",
+      "title": "Anime_Merch",
+      "description": "An website to purchase anime related stuffs.",
+      "link": "https://github.com/Arpitkandwal/anime"
+    },
+    {
+      "id": "2",
+      "src": "./img/Screenshot (29).png",
+      "title": "Book_Adda",
+      "description": "A website where you can buy and sell books online.",
+      "link": "https://github.com/Arpitkandwal/book-adda"
+    }
+  ]
+}
